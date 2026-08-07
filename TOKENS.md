@@ -1,0 +1,47 @@
+# Tokens
+
+## Light
+
+- Background:
+  - default: `#ffffff`
+    - hover: `#f2f2f2`
+    - disabled: `#ffffff`
+  - assist: `#fafafa`
+    - hover: `#fafafa`
+    - disabled: `#fafafa`
+  - important: `#171717`
+    - hover: `#383838`
+    - disabled: `#a8a8a8`
+  - select & selected: `#f2f2f2` | `#bebebe33`
+    - hover: `#f2f2f2` | `#bebebe33`
+    - disabled: `#f2f2f2` | `#bebebe33`
+  - scrollbar: `#858585`
+    - hover: `#858585`
+    - disabled: `#858585`
+  - info: `#f0f7ff` | `#b4d7ff33`
+  - success: `#ecfdec` | `#a0f5a033`
+  - error: `#ffeeef` | `#ffaaaf33`
+  - warning: `#fff6de` | `#ffd25a33`
+  - verbose: `#f2f2f2` | `#bebebe33`
+- Foreground:
+  - default & assist: `#171717`
+    - inactive: `#4d4d4d`
+    - active: `#171717`
+    - disabled: `#a8a8a8`
+    - placeholder: `#8b8b8b`
+  - important: `#ffffff`
+    - inactive: `#ffffff`
+    - active: `#ffffff`
+    - disabled: `#ffffff`
+    - placeholder: `#ffffff`
+  - info: `#005ff2`
+  - success: `#107d32`
+  - error: `#d8001b`
+  - warning: `#aa4d00`
+  - verbose: `#4d4d4d`
+  - purple: `#7d00cc`
+  - pink: `#c41562`
+- Border:
+  - default & assist: `#ebebeb`
+  - checkbox: `#8f8f8f`
+- Transparent: `#fafafa00`
