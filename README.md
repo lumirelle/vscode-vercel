@@ -1,15 +1,7 @@
-<p align="center">
-  <a href="https://vercel.com">
-    <img src=".github/vercel.png" height="96">
-    <h3 align="center">VSCode Vercel</h3>
-  </a>
-</p>
-
-<p align="center">
-  Download. Develop. Ship.
-</p>
-
 # VSCode Vercel
+
+> [!Note]
+> This is a personal usage fork for [gantoreno/vscode-vercel](https://github.com/gantoreno/vscode-vercel), align with the latest color design of [vercel.com](vercel.com).
 
 A carefully crafted set of colorschemes that are faithful to [Next.js](https://nextjs.org) & [Vercel](https://vercel.com)'s docs.
 

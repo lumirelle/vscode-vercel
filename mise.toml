@@ -1,0 +1,13 @@
+[tools]
+node = "latest"
+nub = { version = "latest", allow_builds = ["@nubjs/nub"] }
+
+[deps.nub]
+description = 'Automatically install Node.js dependencies via nub.'
+sources = ['package.json', 'nub.lock']
+outputs = ['node_modules/']
+run = 'nub pm pin && nub install'
+auto = true
+
+[env]
+_."path" = ["{{config_root}}/node_modules/.bin"]

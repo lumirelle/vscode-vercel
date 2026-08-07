@@ -2,8 +2,8 @@
   "name": "vscode-vercel-theme",
   "displayName": "VSCode Vercel Theme",
   "description": "A carefully crafted set of colorschemes that are faithful to Next.js & Vercel's docs",
-  "publisher": "gantoreno",
-  "version": "0.1.2",
+  "publisher": "lumirelle",
+  "version": "0.0.0",
   "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
@@ -13,11 +13,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gantoreno/vscode-vercel.git"
+    "url": "https://github.com/lumirelle/vscode-vercel.git"
   },
   "bugs": {
-    "url": "https://github.com/gantoreno/vscode-vercel/issues",
-    "email": "gantoreno@gmail.com"
+    "url": "https://github.com/lumirelle/vscode-vercel/issues",
+    "email": "lumirelle@outlook.com"
   },
   "keywords": [
     "theme",
@@ -40,5 +40,20 @@
         "path": "./themes/vercel-dark.json"
       }
     ]
+  },
+  "packageManager": "nub@0.7.1",
+  "devEngines": {
+    "packageManager": {
+      "name": "nub",
+      "version": "^0.7.1",
+      "onFail": "ignore"
+    }
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.9.2"
+  },
+  "allowBuilds": {
+    "@vscode/vsce-sign": true,
+    "keytar": true
   }
 }
