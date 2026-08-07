@@ -5,7 +5,7 @@
 - Background:
   - default: `#ffffff`
     - hover: `#f2f2f2`
-    - disabled: `#ffffff`
+    - disabled: `#f2f2f2`
   - assist: `#fafafa`
     - hover: `#fafafa`
     - disabled: `#fafafa`
@@ -45,3 +45,49 @@
   - default & assist: `#ebebeb`
   - checkbox: `#8f8f8f`
 - Transparent: `#fafafa00`
+
+## Dark
+
+- Background:
+  - default: `#000000`
+    - hover: `#1f1f1f`
+    - disabled: `#1f1f1f`
+  - assist: `#000000`
+    - hover: `#000000`
+    - disabled: `#000000`
+  - important: `#ededed`
+    - hover: `#cccccc`
+    - disabled: `#a8a8a8`
+  - select & selected: `#1a1a1a` | `#82828233`
+    - hover: `#1a1a1a` | `#82828233`
+    - disabled: `#1a1a1a` | `#82828233`
+  - scrollbar: `#959595`
+    - hover: `#959595`
+    - disabled: `#959595`
+  - info: `#06193a` | `#1968f23d`
+  - success: `#002608` | `#009e213d`
+  - error: `#330a11` | `#d52a473d`
+  - warning: `#2a1700` | `#af60003d`
+  - verbose: `#1a1a1a` | `#6c6c6c3d`
+- Foreground:
+  - default & assist: `#ededed`
+    - inactive: `#a0a0a0`
+    - active: `#ededed`
+    - disabled: `#a1a1a1`
+    - placeholder: `#8f8f8f`
+  - important: `#000000`
+    - inactive: `#000000`
+    - active: `#000000`
+    - disabled: `#000000`
+    - placeholder: `#000000`
+  - info: `#47a8ff`
+  - success: `#00ca50`
+  - error: `#ff565f`
+  - warning: `#ff9300`
+  - verbose: `#a0a0a0`
+  - purple: `#c472fb`
+  - pink: `#ff4d8d`
+- Border:
+  - default & assist: `#1a1a1a`
+  - checkbox: `#1f1f1f`
+- Transparent: `#00000000`

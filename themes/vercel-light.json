@@ -9,7 +9,7 @@
     "titleBar.border": "#ebebeb",
     "commandCenter.background": "#ffffff",
     "commandCenter.activeBackground": "#ffffff",
-    "commandCenter.debuggingBackground": "#ffffff00",
+    "commandCenter.debuggingBackground": "#fafafa00",
     "commandCenter.border": "#ebebeb",
     "commandCenter.activeBorder": "#ebebeb",
     "commandCenter.inactiveBorder": "#ebebeb",
@@ -670,5 +670,5 @@
       }
     }
   ],
-  "type": "dark"
+  "type": "light"
 }
