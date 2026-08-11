@@ -4,20 +4,17 @@
 
 - Background:
   - default: `#ffffff`
-    - hover: `#f2f2f2`
-    - disabled: `#f2f2f2`
+    - hover: `#f2f2f2` | `#bebebe33`
+    - active: `#ebebeb` | `#9b9b9b33`
   - assist: `#fafafa`
-    - hover: `#fafafa`
-    - disabled: `#fafafa`
+    - hover: `#f2f2f2` | `#bebebe33`
+    - active: `#ebebeb` | `#9b9b9b33`
   - important: `#171717`
     - hover: `#383838`
-    - disabled: `#a8a8a8`
-  - select & selected: `#f2f2f2` | `#bebebe33`
-    - hover: `#f2f2f2` | `#bebebe33`
-    - disabled: `#f2f2f2` | `#bebebe33`
+    - active: `#171717`
+  - disabled: `#f2f2f2` | `#bebebe33`
+    - checkbox: `#a8a8a8`
   - scrollbar: `#858585`
-    - hover: `#858585`
-    - disabled: `#858585`
   - info: `#f0f7ff` | `#b4d7ff33`
   - success: `#ecfdec` | `#a0f5a033`
   - error: `#ffeeef` | `#ffaaaf33`
@@ -27,13 +24,11 @@
   - default & assist: `#171717`
     - inactive: `#4d4d4d`
     - active: `#171717`
-    - disabled: `#a8a8a8`
-    - placeholder: `#8b8b8b`
   - important: `#ffffff`
     - inactive: `#ffffff`
     - active: `#ffffff`
-    - disabled: `#ffffff`
-    - placeholder: `#ffffff`
+  - disabled: `#8f8f8f`
+  - placeholder: `#7d7d7d`
   - info: `#005ff2`
   - success: `#107d32`
   - error: `#d8001b`
@@ -50,20 +45,17 @@
 
 - Background:
   - default: `#000000`
-    - hover: `#1f1f1f`
-    - disabled: `#1f1f1f`
+    - hover: `#1a1a1a` | `#82828233`
+    - active: `#1f1f1f` | `#9b9b9b33`
   - assist: `#000000`
-    - hover: `#000000`
-    - disabled: `#000000`
+    - hover: `#1a1a1a` | `#82828233`
+    - active: `#1f1f1f` | `#9b9b9b33`
   - important: `#ededed`
     - hover: `#cccccc`
-    - disabled: `#a8a8a8`
-  - select & selected: `#1a1a1a` | `#82828233`
-    - hover: `#1a1a1a` | `#82828233`
-    - disabled: `#1a1a1a` | `#82828233`
+    - active: `#ededed`
+  - disabled: `#1a1a1a` | `#82828233`
+    - checkbox: `#878787`
   - scrollbar: `#959595`
-    - hover: `#959595`
-    - disabled: `#959595`
   - info: `#06193a` | `#1968f23d`
   - success: `#002608` | `#009e213d`
   - error: `#330a11` | `#d52a473d`
@@ -73,13 +65,11 @@
   - default & assist: `#ededed`
     - inactive: `#a0a0a0`
     - active: `#ededed`
-    - disabled: `#a1a1a1`
-    - placeholder: `#8f8f8f`
   - important: `#000000`
     - inactive: `#000000`
     - active: `#000000`
-    - disabled: `#000000`
-    - placeholder: `#000000`
+  - disabled: `#8f8f8f`
+  - placeholder: `#7d7d7d`
   - info: `#47a8ff`
   - success: `#00ca50`
   - error: `#ff565f`

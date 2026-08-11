@@ -80,7 +80,7 @@
     "checkbox.selectBorder": "#171717",
     "input.background": "#ffffff",
     "input.foreground": "#171717",
-    "input.placeholderForeground": "#8b8b8b",
+    "input.placeholderForeground": "#7d7d7d",
     "input.border": "#ebebeb",
     "dropdown.background": "#ffffff",
     "dropdown.listBackground": "#ffffff",
@@ -88,14 +88,14 @@
     "dropdown.foreground": "#4d4d4d",
     "list.hoverBackground": "#f2f2f2",
     "list.focusBackground": "#f2f2f2",
-    "list.activeSelectionBackground": "#f2f2f2",
+    "list.activeSelectionBackground": "#ebebeb",
     "list.inactiveFocusBackground": "#f2f2f2",
-    "list.inactiveSelectionBackground": "#f2f2f2",
+    "list.inactiveSelectionBackground": "#ebebeb",
     "list.hoverForeground": "#171717",
     "list.focusForeground": "#171717",
-    "list.activeSelectionForeground": "#171717",
     "list.highlightForeground": "#171717",
-    "list.inactiveSelectionForeground": "#a8a8a8",
+    "list.activeSelectionForeground": "#171717",
+    "list.inactiveSelectionForeground": "#171717",
     "list.errorForeground": "#d8001b",
     "list.warningForeground": "#aa4d00",
 
@@ -110,14 +110,14 @@
     // Default
     "foreground": "#4d4d4d",
     "icon.foreground": "#4d4d4d",
-    "descriptionForeground": "#8b8b8b",
+    "descriptionForeground": "#7d7d7d",
     "errorForeground": "#d8001b",
     // Vercel use #000000 for all selection background,
     // and #ffffff for all selection foreground,
     // but VSCode does not support foreground...
     // So we use the same color for select item background
     // for selection.
-    "selection.background": "#f2f2f2",
+    "selection.background": "#ebebeb",
     "focusBorder": "#fafafa00",
 
     // Editor Group
@@ -167,7 +167,7 @@
     "editor.findMatchHighlightBackground": "#ffd25a33",
     // Stack Frame
     "editor.stackFrameHighlightBackground": "#ffd25a36",
-    "editor.focusedStackFrameHighlightBackground": "#fafafa",
+    "editor.focusedStackFrameHighlightBackground": "#ebebeb",
     // Linked Editing
     "editor.linkedEditingBackground": "#bebebe33",
     // Cursor
@@ -180,10 +180,10 @@
     "editorIndentGuide.background1": "#ebebeb",
     // Inlay Hint
     "editorInlayHint.background": "#ffffff",
-    "editorInlayHint.foreground": "#8b8b8b",
+    "editorInlayHint.foreground": "#7d7d7d",
     // Ruler
     "editorRuler.foreground": "#ebebeb",
-    "editorWhitespace.foreground": "#8b8b8b",
+    "editorWhitespace.foreground": "#7d7d7d",
     // Fold
     "editor.foldBackground": "#bebebe33",
 
@@ -255,7 +255,7 @@
 
     // Terminal
     "terminal.foreground": "#171717",
-    "terminal.selectionBackground": "#f2f2f2",
+    "terminal.selectionBackground": "#ebebeb",
     "terminal.ansiBlack": "#171717",
     "terminal.ansiBrightBlack": "#171717",
     "terminal.ansiBlue": "#005ff2",
@@ -287,7 +287,7 @@
     {
       "scope": ["comment", "punctuation.definition.comment", "string.comment"],
       "settings": {
-        "foreground": "#8b8b8b"
+        "foreground": "#7d7d7d"
       }
     },
     {
@@ -584,7 +584,7 @@
     {
       "scope": ["markup.ignored", "markup.untracked"],
       "settings": {
-        "foreground": "#a8a8a8"
+        "foreground": "#7d7d7d"
       }
     },
     {

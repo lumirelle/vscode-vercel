@@ -73,14 +73,14 @@
     "button.secondaryForeground": "#ededed",
     "checkbox.background": "#000000",
     "checkbox.selectBackground": "#ededed",
-    "checkbox.disabled.background": "#a8a8a8",
+    "checkbox.disabled.background": "#878787",
     "checkbox.foreground": "#000000",
     "checkbox.disabled.foreground": "#000000",
     "checkbox.border": "#1f1f1f",
     "checkbox.selectBorder": "#ededed",
     "input.background": "#000000",
     "input.foreground": "#ededed",
-    "input.placeholderForeground": "#8f8f8f",
+    "input.placeholderForeground": "#7d7d7d",
     "input.border": "#1a1a1a",
     "dropdown.background": "#000000",
     "dropdown.listBackground": "#000000",
@@ -88,14 +88,14 @@
     "dropdown.foreground": "#a0a0a0",
     "list.hoverBackground": "#1a1a1a",
     "list.focusBackground": "#1a1a1a",
-    "list.activeSelectionBackground": "#1a1a1a",
+    "list.activeSelectionBackground": "#1f1f1f",
     "list.inactiveFocusBackground": "#1a1a1a",
-    "list.inactiveSelectionBackground": "#1a1a1a",
+    "list.inactiveSelectionBackground": "#1f1f1f",
     "list.hoverForeground": "#ededed",
     "list.focusForeground": "#ededed",
-    "list.activeSelectionForeground": "#ededed",
     "list.highlightForeground": "#ededed",
-    "list.inactiveSelectionForeground": "#a8a8a8",
+    "list.activeSelectionForeground": "#ededed",
+    "list.inactiveSelectionForeground": "#ededed",
     "list.errorForeground": "#ff565f",
     "list.warningForeground": "#ff9300",
 
@@ -110,14 +110,14 @@
     // Default
     "foreground": "#a0a0a0",
     "icon.foreground": "#a0a0a0",
-    "descriptionForeground": "#8f8f8f",
+    "descriptionForeground": "#7d7d7d",
     "errorForeground": "#ff565f",
     // Vercel use #000000 for all selection background,
     // and #000000 for all selection foreground,
     // but VSCode does not support foreground...
     // So we use the same color for select item background
     // for selection.
-    "selection.background": "#1a1a1a",
+    "selection.background": "#1f1f1f",
     "focusBorder": "#00000000",
 
     // Editor Group
@@ -167,7 +167,7 @@
     "editor.findMatchHighlightBackground": "#af60003d",
     // Stack Frame
     "editor.stackFrameHighlightBackground": "#af600040",
-    "editor.focusedStackFrameHighlightBackground": "#000000",
+    "editor.focusedStackFrameHighlightBackground": "#1f1f1f",
     // Linked Editing
     "editor.linkedEditingBackground": "#6c6c6c3d",
     // Cursor
@@ -180,10 +180,10 @@
     "editorIndentGuide.background1": "#1a1a1a",
     // Inlay Hint
     "editorInlayHint.background": "#000000",
-    "editorInlayHint.foreground": "#8f8f8f",
+    "editorInlayHint.foreground": "#7d7d7d",
     // Ruler
     "editorRuler.foreground": "#1a1a1a",
-    "editorWhitespace.foreground": "#8f8f8f",
+    "editorWhitespace.foreground": "#7d7d7d",
     // Fold
     "editor.foldBackground": "#6c6c6c3d",
 
@@ -255,7 +255,7 @@
 
     // Terminal
     "terminal.foreground": "#ededed",
-    "terminal.selectionBackground": "#1a1a1a",
+    "terminal.selectionBackground": "#1f1f1f",
     "terminal.ansiBlack": "#ededed",
     "terminal.ansiBrightBlack": "#ededed",
     "terminal.ansiBlue": "#47a8ff",
@@ -287,7 +287,7 @@
     {
       "scope": ["comment", "punctuation.definition.comment", "string.comment"],
       "settings": {
-        "foreground": "#8f8f8f"
+        "foreground": "#7d7d7d"
       }
     },
     {
