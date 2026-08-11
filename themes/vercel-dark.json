@@ -142,26 +142,26 @@
     "editorOverviewRuler.errorForeground": "#ff565f",
     "editorOverviewRuler.border": "#1a1a1a",
     // Minimap
-    "minimap.selectionHighlight": "#6c6c6c3d",
+    "minimap.selectionHighlight": "#9b9b9b33",
 
     // Editor Content
     "editor.background": "#000000",
     "editor.foreground": "#ededed",
     // Line Highlight
-    "editor.lineHighlightBackground": "#6c6c6c3d",
+    "editor.lineHighlightBackground": "#9b9b9b33",
     // Word Highlight
-    "editor.wordHighlightBackground": "#6c6c6c3d",
+    "editor.wordHighlightBackground": "#9b9b9b33",
     "editor.wordHighlightBorder": "#00000000",
     "editor.wordHighlightStrongBackground": "#00000000",
     "editor.wordHighlightStrongBorder": "#00000000",
     // Bracket Match
-    "editorBracketMatch.background": "#6c6c6c3d",
+    "editorBracketMatch.background": "#9b9b9b33",
     "editorBracketMatch.border": "#00000000",
     // Selection
-    "editor.selectionBackground": "#6c6c6c3d",
-    "editor.inactiveSelectionBackground": "#6c6c6c3d",
-    "editor.selectionHighlightBackground": "#6c6c6c3d",
-    "editor.selectionHighlightBorder": "#6c6c6c3d",
+    "editor.selectionBackground": "#9b9b9b33",
+    "editor.inactiveSelectionBackground": "#9b9b9b33",
+    "editor.selectionHighlightBackground": "#9b9b9b33",
+    "editor.selectionHighlightBorder": "#9b9b9b33",
     // Find
     "editor.findMatchBackground": "#af600099",
     "editor.findMatchHighlightBackground": "#af60003d",
@@ -169,7 +169,7 @@
     "editor.stackFrameHighlightBackground": "#af600040",
     "editor.focusedStackFrameHighlightBackground": "#1f1f1f",
     // Linked Editing
-    "editor.linkedEditingBackground": "#6c6c6c3d",
+    "editor.linkedEditingBackground": "#9b9b9b33",
     // Cursor
     "editorCursor.foreground": "#ededed",
     // Hover Widget
@@ -185,7 +185,7 @@
     "editorRuler.foreground": "#1a1a1a",
     "editorWhitespace.foreground": "#7d7d7d",
     // Fold
-    "editor.foldBackground": "#6c6c6c3d",
+    "editor.foldBackground": "#9b9b9b33",
 
     // Error Lens
     "errorLens.errorBackground": "#d52a473d",
