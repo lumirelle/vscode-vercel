@@ -3,7 +3,7 @@
   "displayName": "VSCode Vercel Theme",
   "description": "A carefully crafted set of colorschemes that are faithful to Next.js & Vercel's docs",
   "publisher": "lumirelle",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
