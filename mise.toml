@@ -11,3 +11,6 @@ auto = true
 
 [env]
 _."path" = ["{{config_root}}/node_modules/.bin"]
+
+[tasks.build]
+run = "vsce package"
