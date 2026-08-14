@@ -257,8 +257,8 @@
     // Terminal
     "terminal.foreground": "#ededed",
     "terminal.selectionBackground": "#1f1f1f",
-    "terminal.ansiBlack": "#ededed",
-    "terminal.ansiBrightBlack": "#ededed",
+    "terminal.ansiBlack": "#a0a0a0",
+    "terminal.ansiBrightBlack": "#a0a0a0",
     "terminal.ansiBlue": "#47a8ff",
     "terminal.ansiBrightBlue": "#47a8ff",
     "terminal.ansiGreen": "#00ca50",
@@ -272,8 +272,8 @@
     "terminal.ansiBrightRed": "#ff565f",
     "terminal.ansiYellow": "#ff9300",
     "terminal.ansiBrightYellow": "#ff9300",
-    "terminal.ansiWhite": "#000000",
-    "terminal.ansiBrightWhite": "#000000",
+    "terminal.ansiWhite": "#ededed",
+    "terminal.ansiBrightWhite": "#ededed",
 
     // Text
     "textBlockQuote.background": "#000000",

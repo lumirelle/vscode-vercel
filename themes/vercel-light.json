@@ -272,8 +272,8 @@
     "terminal.ansiBrightRed": "#d8001b",
     "terminal.ansiYellow": "#aa4d00",
     "terminal.ansiBrightYellow": "#aa4d00",
-    "terminal.ansiWhite": "#ffffff",
-    "terminal.ansiBrightWhite": "#ffffff",
+    "terminal.ansiWhite": "#4d4d4d",
+    "terminal.ansiBrightWhite": "#4d4d4d",
 
     // Text
     "textBlockQuote.background": "#ffffff",
