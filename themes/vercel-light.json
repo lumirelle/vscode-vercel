@@ -429,25 +429,25 @@
     {
       "scope": "invalid.broken",
       "settings": {
-        "foreground": "#bd2864" // colors.pink
+        "foreground": "#cb2a2f" // colors.red
       }
     },
     {
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#bd2864" // colors.pink
+        "foreground": "#cb2a2f" // colors.red
       }
     },
     {
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#bd2864" // colors.pink
+        "foreground": "#cb2a2f" // colors.red
       }
     },
     {
       "scope": "invalid.unimplemented",
       "settings": {
-        "foreground": "#bd2864" // colors.pink
+        "foreground": "#cb2a2f" // colors.red
       }
     },
     {
