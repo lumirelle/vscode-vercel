@@ -1,7 +1,7 @@
 {
   "name": "vscode-vercel-theme",
   "displayName": "VSCode Vercel Theme",
-  "description": "A carefully crafted set of colorschemes that are faithful to Next.js & Vercel's docs",
+  "description": "A carefully crafted set of colorschemes based on the Geist design system (https://vercel.com/geist/introduction)",
   "publisher": "lumirelle",
   "version": "0.1.0",
   "license": "MIT",
