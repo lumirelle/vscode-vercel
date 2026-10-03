@@ -257,8 +257,8 @@
     // Terminal
     "terminal.foreground": "#171717",
     "terminal.selectionBackground": "#f2f2f2", // colors.background_hover
-    "terminal.ansiBlack": "#171717", // colors.background_reverse
-    "terminal.ansiBrightBlack": "#171717", // colors.background_reverse
+    "terminal.ansiBlack": "#171717", // colors.black
+    "terminal.ansiBrightBlack": "#171717", // colors.black
     "terminal.ansiBlue": "#0068d6",
     "terminal.ansiBrightBlue": "#0068d6",
     "terminal.ansiGreen": "#297a3a",
@@ -271,8 +271,8 @@
     "terminal.ansiBrightRed": "#cb2a2f",
     "terminal.ansiYellow": "#a35200", // colors.amber
     "terminal.ansiBrightYellow": "#a35200", // colors.amber
-    "terminal.ansiWhite": "#ffffff", // colors.foreground_reverse
-    "terminal.ansiBrightWhite": "#ffffff", // colors.foreground_reverse
+    "terminal.ansiWhite": "#4d4d4d", // colors.white
+    "terminal.ansiBrightWhite": "#4d4d4d", // colors.white
 
     // Text
     "textBlockQuote.background": "#ffffff", // colors.background_comparison
