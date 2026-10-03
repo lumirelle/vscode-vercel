@@ -1,7 +1,8 @@
 # VSCode Vercel
 
 > [!Note]
-> This is a personal usage fork for [gantoreno/vscode-vercel](https://github.com/gantoreno/vscode-vercel), align with the latest color design of [vercel.com](vercel.com).
+> This is a personal usage fork for [gantoreno/vscode-vercel](https://github.com/gantoreno/vscode-vercel), built from the [vercel.nvim](https://github.com/lumirelle/vercel.nvim) palette
+> ([`SCHEMA.md`](https://github.com/lumirelle/vercel.nvim/blob/main/SCHEMA.md) / [`lua/vercel/colors.lua`](https://github.com/lumirelle/vercel.nvim/blob/main/lua/vercel/colors.lua)).
 
 A carefully crafted set of colorschemes that are faithful to [Next.js](https://nextjs.org) & [Vercel](https://vercel.com)'s docs.
 
